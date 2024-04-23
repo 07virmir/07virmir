@@ -1,7 +1,15 @@
-Hi 👋, I'm Viren, a backend/ML dev who loves building cool things
+### Hi 👋, I'm Viren!
 
-🔭 My current interests include **building data pipelines & scaling ML models**
+### I'm a backend & ML dev who loves building cool things, here's a bit more about me -
 
-🌱 I’m currently learning about **transformer architectures**
+🔭 My current interests: 
+- building data pipelines
+- scaling ML models
 
-💬 Ask me about anything related to **blockchain, ML, or python**
+🌱 I’m currently learning:
+- transformer architectures
+
+💬 Ask me about:
+- blockchain
+- ML
+- python
