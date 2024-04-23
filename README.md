@@ -4,4 +4,4 @@ Hi 👋, I'm Viren, a backend/ML dev who loves building cool things
 
 🌱 I’m currently learning about **transformer architectures**
 
-💬 Ask me about anything **blockchain, ML, python**
+💬 Ask me about anything related to **blockchain, ML, python**
